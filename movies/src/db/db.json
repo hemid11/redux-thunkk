@@ -1,0 +1,19 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Spiderman",
+        "posterImg": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg",
+        "releaseYear": 2002,
+        "genre": "Action"
+      },
+      {
+        "id": 2,
+        "title": "Harry Potter",
+        "posterImg": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+        "releaseYear": 2001,
+        "genre": "Fantastic"
+      }
+    ]
+  }
+  
